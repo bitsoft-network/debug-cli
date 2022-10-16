@@ -1,0 +1,24 @@
+{
+  "name": "@bitsoft-network/debug",
+  "version": "1.0.0",
+  "description": "Debugging CLI helper tool for Bitsoft products.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bitsoft-network/debug-cli.git"
+  },
+  "keywords": [
+    "debug",
+    "cli",
+    "bitsoft"
+  ],
+  "author": "Leevi Halme <leevi@bitsoft.network> (https://leevihal.me)",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/bitsoft-network/debug-cli/issues"
+  },
+  "homepage": "https://github.com/bitsoft-network/debug-cli#readme"
+}
